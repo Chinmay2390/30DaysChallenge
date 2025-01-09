@@ -1,2 +1,2 @@
 # 30DaysChallenge
-coding challenge
+CODING CHALLENGE
