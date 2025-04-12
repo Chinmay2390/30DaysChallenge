@@ -3,3 +3,12 @@ abc.txt
 *.out
 *.o
 *.obj
+
+# Ignore all files with no extension (most C/C++ binaries)
+*
+!*/
+!*.cpp
+!*.h
+!.gitignore
+!README.md
+
