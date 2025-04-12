@@ -1,1 +1,5 @@
 *.exe
+abc.txt
+*.out
+*.o
+*.obj
